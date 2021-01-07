@@ -6,7 +6,8 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '15 1 * * *' # cron表达式，Actions时区是UTC时间，所以上午9点要往前推8个小时
+    - cron: '45 8 * * *' # cron表达式，Actions时区是UTC时间，所以上午9点要往前推8个小时
 
 jobs:
 
