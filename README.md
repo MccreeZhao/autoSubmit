@@ -1,5 +1,5 @@
 # 实验Action
-
+- 需要手动Enable Go
 # autoSubmit
 ![Go](https://github.com/yzs981130/autoSubmit/workflows/Go/badge.svg?branch=master)
 
