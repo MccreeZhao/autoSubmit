@@ -1,6 +1,6 @@
 # 实验Action
 - 需要手动Enable Go
-- 报错了...
+- secrete 不用env
 # autoSubmit
 ![Go](https://github.com/yzs981130/autoSubmit/workflows/Go/badge.svg?branch=master)
 
